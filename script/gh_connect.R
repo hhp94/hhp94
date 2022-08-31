@@ -1,4 +1,5 @@
 # Connect it to GitHub
+usethis::use_git()
 usethis::use_github()
 
 # Once in the project, run this to make your readme
