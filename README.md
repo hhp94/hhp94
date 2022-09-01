@@ -9,7 +9,7 @@
 
 -   I am a biostatistician. I perform statistical analysis in mental
     health studies of mothers and children.
--   I work mainly with survey data and genomics data.
+-   I work mainly with survey data, psychology data, and genomics data.
 -   I enjoy persuading colleagues to switch to
     ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
     and SQL.
@@ -33,7 +33,11 @@
 ## Links
 
 -   Here’s my
-    [Resume](https://docs.google.com/viewer?url=https://github.com/hhp94/hhp94/blob/master/inp/hhp_resume_ts.pdf?raw=true).
+    [resume](https://docs.google.com/viewer?url=https://github.com/hhp94/hhp94/blob/master/inp/hhp_resume_ts.pdf?raw=true).
+    Created with `{vitae}`, using the Twenty Seconds CV template by
+    [Mitchell O’Hara-Wild, theme by Carmine Spagnuolo
+    (@spagnuolocarmine)](https://pkg.mitchelloharawild.com/vitae/reference/twentyseconds.html)
+
 -   Under Constructions
 
 ## Socials
