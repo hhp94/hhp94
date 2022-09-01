@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 ## About me 
 <!-- badges: start -->
-* I am a biostatistician. I perform statistical analysis in mental health studies in mothers and children.
+* I am a biostatistician. I perform statistical analysis in mental health studies of mothers and children.
 * I work mainly with survey data and genomics data.
 * I enjoy persuading colleagues to switch to ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R) and SQL.
 * I am an ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R) 
@@ -34,7 +34,8 @@ mostly for web scraping, sci-kit learn, and potentially torch in the future.
 <!-- ![banner_plot](https://github.com/hhp94/hhp94/blob/master/blob/banner_pic.jpg?raw=true) -->
 
 ## Links
-Under Constructions  
+* Here's my [Resume](https://docs.google.com/viewer?url=https://github.com/hhp94/hhp94/blob/master/inp/hhp_resume_ts.pdf?raw=true).
+* Under Constructions
 
 ## Socials
 [![LinkedIn](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=LinkedIn&link=https://www.linkedin.com/in/hung-pham-3b3492113/)](https://www.linkedin.com/in/hung-pham-3b3492113/)

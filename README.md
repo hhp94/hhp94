@@ -8,7 +8,7 @@
 <!-- badges: start -->
 
 -   I am a biostatistician. I perform statistical analysis in mental
-    health studies in mothers and children.
+    health studies of mothers and children.
 -   I work mainly with survey data and genomics data.
 -   I enjoy persuading colleagues to switch to
     ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
@@ -32,7 +32,9 @@
 
 ## Links
 
-Under Constructions
+-   Here’s my
+    [Resume](https://docs.google.com/viewer?url=https://github.com/hhp94/hhp94/blob/master/inp/hhp_resume_ts.pdf?raw=true).
+-   Under Constructions
 
 ## Socials
 
