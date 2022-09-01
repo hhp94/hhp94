@@ -1,26 +1,34 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+![banner_plot](./blob/banner_pic.jpg)
+
 ## About me
 
 <!-- badges: start -->
 
-I am a biostatistician, modeling longitudinal mental health studies in
-mothers and children. I am a
-![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
-enthusiast. My most favorite
-![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
-📦s are `{data.table}`, `{brms}`, and `{ggplot2}`. I also use
-[![Stan](https://img.shields.io/static/v1?label=%20&message=Stan&color=B2011E&https://mc-stan.org/)](https://mc-stan.org/)
-to perform Bayesian analysis. I use
-![Python](https://img.shields.io/static/v1?label=%20&message=%20&color=yellow&logo=Python)
-mostly for web scraping, sci-kit learn, and potentially torch in the
-future.  
-<!-- badges: end -->
+-   I am a biostatistician. I perform statistical analysis in mental
+    health studies in mothers and children.
+-   I work mainly with survey data and genomics data.
+-   I enjoy persuading colleagues to switch to
+    ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
+    and SQL.
+-   I am an
+    ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
+    enthusiast. My most favorite
+    ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
+    📦s are `{data.table}`, `{brms}`, and `{ggplot2}`, … and `{shiny}`,
+    and `{tidyverse}`, and pretty much every package …
+-   I also use
+    [![Stan](https://img.shields.io/static/v1?label=%20&message=Stan&color=B2011E&https://mc-stan.org/)](https://mc-stan.org/)
+    to do Bayesian statistics.
+-   I use
+    ![Python](https://img.shields.io/static/v1?label=%20&message=%20&color=yellow&logo=Python)
+    mostly for web scraping, sci-kit learn, and potentially torch in the
+    future.  
+    <!-- badges: end -->
 
 <!-- ![banner_plot](https://github.com/hhp94/hhp94/blob/master/blob/banner_pic.jpg?raw=true) -->
-
-![banner_plot](./blob/banner_pic.jpg)
 
 ## Links
 
