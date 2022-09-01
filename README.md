@@ -11,7 +11,7 @@ mothers and children. I am a
 enthusiast. My most favorite
 ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
 📦s are `{data.table}`, `{brms}`, and `{ggplot2}`. I also use
-![stan](https://img.shields.io/static/v1?label=%20&message=stan&color=B2011E)
+[![Stan](https://img.shields.io/static/v1?label=%20&message=Stan&color=B2011E&https://mc-stan.org/)](https://mc-stan.org/)
 to perform Bayesian analysis. I use
 ![Python](https://img.shields.io/static/v1?label=%20&message=%20&color=yellow&logo=Python)
 mostly for web scraping, sci-kit learn, and potentially torch in the
@@ -28,4 +28,4 @@ Under Constructions
 
 ## Socials
 
-![LinkedIn](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=LinkedIn&link=https://www.linkedin.com/in/hung-pham-3b3492113/)
+[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=LinkedIn&link=https://www.linkedin.com/in/hung-pham-3b3492113/)](https://www.linkedin.com/in/hung-pham-3b3492113/)
