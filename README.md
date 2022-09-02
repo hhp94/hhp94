@@ -5,11 +5,10 @@
 
 ## About me
 
-<!-- badges: start -->
-
 -   I am a biostatistician. I perform statistical analysis in mental
     health studies of mothers and children.
--   I work mainly with survey data, psychology data, and genomics data.
+-   I work mainly with survey data, clinical psychology data, and
+    genomics data.
 -   I enjoy persuading colleagues to switch to
     ![R](https://img.shields.io/static/v1?label=%20&message=%20&color=blue&logo=R)
     and SQL.
@@ -25,18 +24,9 @@
 -   I use
     ![Python](https://img.shields.io/static/v1?label=%20&message=%20&color=yellow&logo=Python)
     mostly for web scraping, sci-kit learn, and potentially torch in the
-    future.  
-    <!-- badges: end -->
-
-<!-- ![banner_plot](https://github.com/hhp94/hhp94/blob/master/blob/banner_pic.jpg?raw=true) -->
+    future.
 
 ## Links
-
--   Here’s my
-    [resume](https://docs.google.com/viewer?url=https://github.com/hhp94/hhp94/blob/master/inp/hhp_resume_ts.pdf?raw=true).
-    Created with `{vitae}`, using the Twenty Seconds CV template by
-    [Mitchell O’Hara-Wild, theme by Carmine Spagnuolo
-    (@spagnuolocarmine)](https://pkg.mitchelloharawild.com/vitae/reference/twentyseconds.html)
 
 -   Under Constructions
 
