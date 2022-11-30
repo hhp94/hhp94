@@ -28,7 +28,12 @@
 
 ## Links
 
--   Under Constructions
+-   R and Python machine learning 📦
+    [rpwf](https://hhp94.github.io/rpwf/): combining
+    [`{tidymodels}`](https://www.tidymodels.org/) in R, and
+    [scikit-learn](https://scikit-learn.org/) in python.  
+-   Using XGboost to predict cases of CVD in a Kaggle competition using
+    both R and Python with [rpwf](hhp94.github.io/rpwf/).
 
 ## Socials
 
